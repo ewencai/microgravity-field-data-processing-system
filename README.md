@@ -124,6 +124,44 @@ Plus: scale factor correction, absolute gravity, quasi-Bouguer anomaly.
 
 Get the latest installer from [Releases](https://github.com/ewencai/microgravity-field-data-processing-system/releases).
 
+## ScreenShots
+
+### 1. Gravity Data Reshaping (CG-5/CG-6/Burris auto-detection, 10 station types)
+![Panel 1 — GRA Reshape](screenshots/panel-01.png)
+
+### 2. GPS Data Processing (Huace E90/X10/T7, extensible ColMap)
+![Panel 2 — GPS Reshape](screenshots/panel-02.png)
+
+### 3. Point Matching (time baseline + survey line + point ID matching, closure unit detail timeline)
+![Panel 3 — Match](screenshots/panel-03.png)
+
+### 4. 7-Term Gravity Correction Chain
+![Panel 4 — Correction](screenshots/panel-04.png)
+
+### 5. Shift & Null Analysis (design-vs-actual offset, stakeout radius)
+![Panel 5 — Shift & Null](screenshots/panel-05.png)
+
+### 6. Infill Point Statistics & DEM Contribution
+![Panel 6 — Dense Stats](screenshots/panel-06.png)
+
+### 7. QC Control (elevation / plan / gravity error distribution, spatial + histogram)
+![Panel 7 — QC Control](screenshots/panel-07.png)
+
+### 8. Closure Check (AM/PM gravity drift & elevation difference)
+![Panel 8 — Closure](screenshots/panel-08.png)
+
+### 9. Daily Progress Charts (11 sub-panels, 3-threshold compliance monitoring)
+![Panel 9 — Progress](screenshots/panel-09.png)
+
+### 10. Field Acquisition Trajectory Replay
+![Panel 10 — Track](screenshots/panel-10.png)
+
+### 11. Daily Inspection Report (auto-aligned with progress thresholds)
+![Panel 11 — Daily Report](screenshots/panel-11.png)
+
+### 12. Project Summary KPI Dashboard & Auto-Generated Word/PPT Report
+![Panel 12 — Summary](screenshots/panel-12.png)
+
 ## Documentation
 
 | Document | Content |
